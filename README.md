@@ -2,9 +2,9 @@
 
 This is a simple example of caching data in Redis. 
 
-It reads BIC codes from text file and stores in Redis cache if BIC doesn't exist. 
+It reads BIC codes from a text file and adds data to Redis cache if BIC doesn't exist. 
 
-User can call get method to check bank detail by calling the end point.
+Once this service is up, user can call get method and check details by calling the end poin below. 
 
 http://<server_address>:8080/get/{bic_code}
 
