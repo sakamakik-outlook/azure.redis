@@ -1,0 +1,706 @@
+{
+    "country": "United States",
+    "country_code": "US",
+    "list": [
+        {
+            "id": 1,
+            "bank": "1492 CAPITAL MANAGEMENT, LLC",
+            "city": "MILWAUKEE,WI",
+            "branch": null,
+            "swift_code": "CMNLUS41"
+        },
+        {
+            "id": 2,
+            "bank": "1607 CAPITAL PARTNERS, LLC",
+            "city": "GLEN ALLEN,VA",
+            "branch": null,
+            "swift_code": "CPPCUS31"
+        },
+        {
+            "id": 3,
+            "bank": "1ST CAPITAL LENDING FUND INC.",
+            "city": "BOCA RATON,FL",
+            "branch": null,
+            "swift_code": "FCABUS31"
+        },
+        {
+            "id": 4,
+            "bank": "1ST CENTURY BANK, N.A.",
+            "city": "LOS ANGELES,CA",
+            "branch": null,
+            "swift_code": "CETYUS66"
+        },
+        {
+            "id": 5,
+            "bank": "1ST PMF BANCORP",
+            "city": "LOS ANGELES,CA",
+            "branch": null,
+            "swift_code": "PMFAUS66"
+        },
+        {
+            "id": 6,
+            "bank": "1ST PMF BANCORP",
+            "city": "LOS ANGELES,CA",
+            "branch": null,
+            "swift_code": "PMFAUS66HKG"
+        },
+        {
+            "id": 7,
+            "bank": "1ST SOURCE BANK",
+            "city": "SOUTH BEND,IN",
+            "branch": null,
+            "swift_code": "SRCEUS31"
+        },
+        {
+            "id": 8,
+            "bank": "1ST VIRTUAL MANAGEMENT",
+            "city": "SAN MATEO,CA",
+            "branch": null,
+            "swift_code": "VIMAUS61"
+        },
+        {
+            "id": 9,
+            "bank": "3 BRIDGE CAPITAL",
+            "city": "SAN FRANCISCO,CA",
+            "branch": null,
+            "swift_code": "BRPPUS61"
+        },
+        {
+            "id": 10,
+            "bank": "300 NORTH CAPITAL, LLC",
+            "city": "PASADENA,CA",
+            "branch": null,
+            "swift_code": "NOHTUS61"
+        },
+        {
+            "id": 11,
+            "bank": "3M COMPANY",
+            "city": "ST. PAUL,MN",
+            "branch": null,
+            "swift_code": "MMMCUS44"
+        },
+        {
+            "id": 12,
+            "bank": "A. MONTAG AND ASSOCIATES",
+            "city": "ATLANTA,GA",
+            "branch": null,
+            "swift_code": "MOASUS31"
+        },
+        {
+            "id": 13,
+            "bank": "A.R. SCHMEIDLER AND COMPANY",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "SCCOUS31"
+        },
+        {
+            "id": 14,
+            "bank": "AAM COMPANY",
+            "city": "CHICAGO,IL",
+            "branch": null,
+            "swift_code": "AACMUS41"
+        },
+        {
+            "id": 15,
+            "bank": "ABACO INTERNATIONAL CORPORATION",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ABCTUS31"
+        },
+        {
+            "id": 16,
+            "bank": "ABACUS FEDERAL SAVINGS BANK",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "AFSBUS33"
+        },
+        {
+            "id": 17,
+            "bank": "ABACUS FINANCIAL GROUP, INC.",
+            "city": "CHICAGO,IL",
+            "branch": null,
+            "swift_code": "ABFGUS41"
+        },
+        {
+            "id": 18,
+            "bank": "ABBEY NATIONAL TREASURY SERVICES LTD US BRANCH",
+            "city": "STAMFORD,CT",
+            "branch": null,
+            "swift_code": "ANTSUS33"
+        },
+        {
+            "id": 19,
+            "bank": "ABBOTT LABORATORIES",
+            "city": "ABBOTT PARK,IL",
+            "branch": null,
+            "swift_code": "ABTTUS44"
+        },
+        {
+            "id": 20,
+            "bank": "ABBVIE, INC.",
+            "city": "CHICAGO,IL",
+            "branch": null,
+            "swift_code": "ABBVUS44"
+        },
+        {
+            "id": 21,
+            "bank": "ABEL\/NOSER CORP",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ABENUS31"
+        },
+        {
+            "id": 22,
+            "bank": "ABERCROMBIE AND FITCH CO.",
+            "city": "NEW ALBANY,OH",
+            "branch": null,
+            "swift_code": "ANFCUS33"
+        },
+        {
+            "id": 23,
+            "bank": "ABERDEEN AMERICA INC.",
+            "city": "BOSTON,MA",
+            "branch": null,
+            "swift_code": "ABAIUS31"
+        },
+        {
+            "id": 24,
+            "bank": "ABG SECURITIES INC.",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ABEEUS31"
+        },
+        {
+            "id": 25,
+            "bank": "ABM COPRORATE SERVICES",
+            "city": "LOS ANGELES,CA",
+            "branch": null,
+            "swift_code": "ABMSUS61"
+        },
+        {
+            "id": 26,
+            "bank": "ABN AMRO CAPITAL USA LLC",
+            "city": "NEW YORK,NY",
+            "branch": "(SEC FINANCING)",
+            "swift_code": "FTSBUS33SFI"
+        },
+        {
+            "id": 27,
+            "bank": "ABN AMRO CAPITAL USA LLC",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "FTSBUS33"
+        },
+        {
+            "id": 28,
+            "bank": "ABN AMRO HOARE GOVETT ASIA INC.",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "HGASUS31"
+        },
+        {
+            "id": 29,
+            "bank": "ABNER HERRMAN AND BROCK",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ABMRUS31"
+        },
+        {
+            "id": 30,
+            "bank": "ABRAHAM AND SONS INC.",
+            "city": "CHICAGO,IL",
+            "branch": null,
+            "swift_code": "ABRSUS41"
+        },
+        {
+            "id": 31,
+            "bank": "ACADEMY SECURITIES, INC.",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ACEEUS31"
+        },
+        {
+            "id": 32,
+            "bank": "ACCESS SECURITIES INC.",
+            "city": "STAMFORD,CT",
+            "branch": null,
+            "swift_code": "ACSUUS31"
+        },
+        {
+            "id": 33,
+            "bank": "ACCI SECURITIES INC.",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ACSEUS31"
+        },
+        {
+            "id": 34,
+            "bank": "ACCI SECURITIES, INC.",
+            "city": "BOULDER,CO",
+            "branch": null,
+            "swift_code": "ACISUS51"
+        },
+        {
+            "id": 35,
+            "bank": "ACCUDYNE INDUSTRIES LLC",
+            "city": "DALLAS,TX",
+            "branch": null,
+            "swift_code": "ADYNUS44"
+        },
+        {
+            "id": 36,
+            "bank": "ACF INTERNATIONAL INC.",
+            "city": "BOSTON,MA",
+            "branch": null,
+            "swift_code": "ACFIUS31"
+        },
+        {
+            "id": 37,
+            "bank": "ACI CAPITAL GROUP, LLC",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ACIXUS31"
+        },
+        {
+            "id": 38,
+            "bank": "ACORN CAPITAL MANAGEMENT, LLC",
+            "city": "KENNETT SQUARE,PA",
+            "branch": null,
+            "swift_code": "ACNLUS31"
+        },
+        {
+            "id": 39,
+            "bank": "ACORN FOUNDATION",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ACFOUS31"
+        },
+        {
+            "id": 40,
+            "bank": "ACR ALPINE CAPITAL RESEARCH, LLC",
+            "city": "ST. LOUIS,MO",
+            "branch": null,
+            "swift_code": "ANMLUS41"
+        },
+        {
+            "id": 41,
+            "bank": "ACUPAY SYSTEM LLC",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ACPYUS33"
+        },
+        {
+            "id": 42,
+            "bank": "ADELANTE CAPITAL MANAGEMENT LLC",
+            "city": "OAKLAND,CA",
+            "branch": null,
+            "swift_code": "ACTLUS61"
+        },
+        {
+            "id": 43,
+            "bank": "ADIRONDACK TRUST CO",
+            "city": "SARATOGA SPRINGS,NY",
+            "branch": null,
+            "swift_code": "ADTRUS31"
+        },
+        {
+            "id": 44,
+            "bank": "ADLER, COLEMAN AND CO.",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ADCLUS31"
+        },
+        {
+            "id": 45,
+            "bank": "ADM DERIVATIVES, INC",
+            "city": "CHICAGO,IL",
+            "branch": null,
+            "swift_code": "ADMDUS41"
+        },
+        {
+            "id": 46,
+            "bank": "ADM INVESTOR SERVICES, INC.",
+            "city": "CHICAGO,IL",
+            "branch": null,
+            "swift_code": "ADMIUS41"
+        },
+        {
+            "id": 47,
+            "bank": "ADP GLOBAL PROXY SERVICES",
+            "city": "EDGEWOOD,NY",
+            "branch": null,
+            "swift_code": "ADPGUS33"
+        },
+        {
+            "id": 48,
+            "bank": "ADVANCED INVESTMENT PARTNERS",
+            "city": "CLEARWATER,FL",
+            "branch": null,
+            "swift_code": "ADIPUS31"
+        },
+        {
+            "id": 49,
+            "bank": "ADVENT CAPITAL MANAGEMENT",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ADCMUS31"
+        },
+        {
+            "id": 50,
+            "bank": "ADVENT INTERNATIONAL PLC NEW YORK",
+            "city": "BOSTON,MA",
+            "branch": null,
+            "swift_code": "AINYUS31"
+        },
+        {
+            "id": 51,
+            "bank": "ADVENT SOFTWARE ENGINEERING",
+            "city": "SAN FRANCISCO,CA",
+            "branch": null,
+            "swift_code": "ADSOUS61"
+        },
+        {
+            "id": 52,
+            "bank": "ADVEST GROUP INC.",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ADVEUS31"
+        },
+        {
+            "id": 53,
+            "bank": "ADVISORY RESEARCH, INC.",
+            "city": "CHICAGO,IL",
+            "branch": null,
+            "swift_code": "ADRSUS41"
+        },
+        {
+            "id": 54,
+            "bank": "AEGIS FINANCIAL CORPORATION",
+            "city": "MCLEAN,VA",
+            "branch": "(HEAD OFFICE)",
+            "swift_code": "BGBCUS31AFC"
+        },
+        {
+            "id": 55,
+            "bank": "AEGIS FINANCIAL CORPORATION",
+            "city": "MCLEAN,VA",
+            "branch": null,
+            "swift_code": "BGBCUS31"
+        },
+        {
+            "id": 56,
+            "bank": "AEGON USA INVESTMENT MANAGEMENT, LLC",
+            "city": "CEDAR RAPIDS,IA",
+            "branch": null,
+            "swift_code": "AEGUUS44"
+        },
+        {
+            "id": 57,
+            "bank": "AETNA LIFE INSURANCE COMPANY",
+            "city": "HARTFORD,CT",
+            "branch": null,
+            "swift_code": "AETNUS33"
+        },
+        {
+            "id": 58,
+            "bank": "AFC PARTNERS LLC",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "AFPLUS31"
+        },
+        {
+            "id": 59,
+            "bank": "AFFINITY PLUS FEDERAL CREDIT UNION",
+            "city": "SAINT PAUL,MN",
+            "branch": null,
+            "swift_code": "APFDUS44"
+        },
+        {
+            "id": 60,
+            "bank": "AFFINITY WEALTH MANAGEMENT, INC.",
+            "city": "WILMINGTON,DE",
+            "branch": null,
+            "swift_code": "AFWMUS31"
+        },
+        {
+            "id": 61,
+            "bank": "AFM SECURITIES INTERNATIONAL LTD.",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "AFMSUS31"
+        },
+        {
+            "id": 62,
+            "bank": "AGENCY TRADING GROUP",
+            "city": "WAYZATA,MN",
+            "branch": null,
+            "swift_code": "ATGPUS41"
+        },
+        {
+            "id": 63,
+            "bank": "AGILENT TECHNOLOGIES, INC",
+            "city": "SANTA CLARA,CA",
+            "branch": null,
+            "swift_code": "AGILUS6S"
+        },
+        {
+            "id": 64,
+            "bank": "AGINCOURT CAPITAL MANAGEMENT",
+            "city": "RICHMOND,VA",
+            "branch": null,
+            "swift_code": "AGCGUS31"
+        },
+        {
+            "id": 65,
+            "bank": "AGINCOURT PARTNERS, LLC",
+            "city": "ALAMEDA,CA",
+            "branch": null,
+            "swift_code": "AGPLUS61"
+        },
+        {
+            "id": 66,
+            "bank": "AGRICULTURAL BANK OF CHINA NEW YORK BRANCH",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ABOCUS33"
+        },
+        {
+            "id": 67,
+            "bank": "AGT LLV",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "AGTLUS31"
+        },
+        {
+            "id": 68,
+            "bank": "AIB BANK",
+            "city": "NEW YORK,NY",
+            "branch": "(TREASURY DEPT)",
+            "swift_code": "AIBKUS3TTMK"
+        },
+        {
+            "id": 69,
+            "bank": "AIB BANK",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "AIBKUS33"
+        },
+        {
+            "id": 70,
+            "bank": "AIB BANK",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "AIBKUS3T"
+        },
+        {
+            "id": 71,
+            "bank": "AIG CLEARING CORPORATION",
+            "city": "CHICAGO,IL",
+            "branch": null,
+            "swift_code": "AIGSUS41"
+        },
+        {
+            "id": 72,
+            "bank": "AIG FINANCIAL PRODUCTS CORP.",
+            "city": "WILTON,CT",
+            "branch": null,
+            "swift_code": "AIGFUS33"
+        },
+        {
+            "id": 73,
+            "bank": "AIG INTERNATIONAL INC.",
+            "city": "WILTON,CT",
+            "branch": null,
+            "swift_code": "AIGIUS33"
+        },
+        {
+            "id": 74,
+            "bank": "AIMBANK",
+            "city": "LITTLEFIELD,TX",
+            "branch": null,
+            "swift_code": "AIMNUS41"
+        },
+        {
+            "id": 75,
+            "bank": "AIS CAPITAL MANAGEMENT",
+            "city": "WILTON,CT",
+            "branch": null,
+            "swift_code": "AICAUS31"
+        },
+        {
+            "id": 76,
+            "bank": "AJO, LP",
+            "city": "PHILADELPHIA,PA",
+            "branch": null,
+            "swift_code": "AJOAUS31"
+        },
+        {
+            "id": 77,
+            "bank": "AK CAPITAL LLC",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "AKCPUS31"
+        },
+        {
+            "id": 78,
+            "bank": "ALASKA PERMANENT FUND CORPORATION",
+            "city": "JUNEAU,AK",
+            "branch": null,
+            "swift_code": "APFCUS81"
+        },
+        {
+            "id": 79,
+            "bank": "ALBION FINANCIAL GROUP",
+            "city": "SALT LAKE CITY,UT",
+            "branch": null,
+            "swift_code": "ALFGUS51"
+        },
+        {
+            "id": 80,
+            "bank": "ALCOA UPSTREAM CORPORATION",
+            "city": "PITTSBURGH,PA",
+            "branch": null,
+            "swift_code": "ALUPUS33"
+        },
+        {
+            "id": 81,
+            "bank": "ALETHEIA RESEARCH AND MANAGEMENT, INC.",
+            "city": "SANTA MONICA,CA",
+            "branch": null,
+            "swift_code": "ALRMUS61"
+        },
+        {
+            "id": 82,
+            "bank": "ALEUTIAN INVESTMENTS LLC",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ALEUUS31"
+        },
+        {
+            "id": 83,
+            "bank": "ALEX BROWN AND SONS",
+            "city": "NEW YORK,NY",
+            "branch": null,
+            "swift_code": "ALBNUS31"
+        },
+        {
+            "id": 84,
+            "bank": "ALEX BROWN AND SONS INC.",
+            "city": "BALTIMORE,MD",
+            "branch": null,
+            "swift_code": "ALBSUS31"
+        },
+        {
+            "id": 85,
+            "bank": "ALEX BROWN INVESTMENT MANAGEMENT",
+            "city": "BALTIMORE,MD",
+            "branch": null,
+            "swift_code": "ABIAUS31"
+        },
+        {
+            "id": 86,
+            "bank": "ALEXION PHARMACEUTICALS INC.",
+            "city": "CHESHIRE,CT",
+            "branch": null,
+            "swift_code": "ALXNUS33"
+        },
+        {
+            "id": 87,
+            "bank": "ALGERT COLDIRON INVESTORS, LLC",
+            "city": "SAN FRANCISCO,CA",
+            "branch": null,
+            "swift_code": "ACILUS61"
+        },
+        {
+            "id": 88,
+            "bank": "ALGERT GLOBAL LLC",
+            "city": "SAN FRANCISCO,CA",
+            "branch": null,
+            "swift_code": "ALOLUS61"
+        },
+        {
+            "id": 89,
+            "bank": "ALLA INVESTMENT MANAGEMENT, INC.",
+            "city": "MINNEAPOLIS,MN",
+            "branch": null,
+            "swift_code": "ALNAUS41"
+        },
+        {
+            "id": 90,
+            "bank": "ALLBRITTON CAPITAL MANAGEMENT ASSOC",
+            "city": "DALLAS,TX",
+            "branch": null,
+            "swift_code": "ACMSUS41"
+        },
+        {
+            "id": 91,
+            "bank": "ALLEGIANCE BANK",
+            "city": "HOUSTON,TX",
+            "branch": null,
+            "swift_code": "ALTXUS44"
+        },
+        {
+            "id": 92,
+            "bank": "ALLEGIANCE FINANCIAL GROUP, INC.",
+            "city": "SOUTH PORTLAND,ME",
+            "branch": null,
+            "swift_code": "ALFOUS31"
+        },
+        {
+            "id": 93,
+            "bank": "ALLEGIS GROUP, INC.",
+            "city": "HANOVER,MD",
+            "branch": null,
+            "swift_code": "ALGRUS33"
+        },
+        {
+            "id": 94,
+            "bank": "ALLEN AND MOONEY INVESTMENTS INC.",
+            "city": "THOMASVILLE,GA",
+            "branch": null,
+            "swift_code": "ALMVUS31"
+        },
+        {
+            "id": 95,
+            "bank": "ALLIANCE DATA SYSTEMS CORPORATION",
+            "city": "PLANO,TX",
+            "branch": null,
+            "swift_code": "ADSDUS44"
+        },
+        {
+            "id": 96,
+            "bank": "ALLIANZ INVESTMENT MANAGEMENT LLC",
+            "city": "MINNEAPOLIS,MN",
+            "branch": null,
+            "swift_code": "AINLUS42"
+        },
+        {
+            "id": 97,
+            "bank": "ALLIANZ INVESTMENT MANAGEMENT LLC",
+            "city": "MINNEAPOLIS,MN",
+            "branch": null,
+            "swift_code": "AINLUS43"
+        },
+        {
+            "id": 98,
+            "bank": "ALLMERICA FINANCIAL SERVICES A.K.A. 440 FINANCIAL GROUP",
+            "city": "WORCESTER,MA",
+            "branch": null,
+            "swift_code": "ALFSUS31"
+        },
+        {
+            "id": 99,
+            "bank": "ALLMERICA FINANCIAL TRUST COMPANY",
+            "city": "WORCESTER,MA",
+            "branch": null,
+            "swift_code": "ALLMUS31"
+        },
+        {
+            "id": 100,
+            "bank": "ALLSTATE INSURANCE COMPANY",
+            "city": "NORTHBROOK,IL",
+            "branch": null,
+            "swift_code": "AICOUS41"
+        }
+    ]
+}
